@@ -16,6 +16,7 @@ contracts/
 ├── BuildingNFT.sol
 └── BuildingScoreMarket.sol
 
+BuildingScoreMarket: 0x9406c1048898d469F9B9995199E533C4b2B95c9a , https://basescan.org/address/0x9406c1048898d469f9b9995199e533c4b2b95c9a#code
 
 Each contract is a separate .sol file. You can use them individually or together.
 

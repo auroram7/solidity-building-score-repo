@@ -18,6 +18,10 @@ contracts/
 
 BuildingScoreMarket: 0x9406c1048898d469F9B9995199E533C4b2B95c9a , https://basescan.org/address/0x9406c1048898d469f9b9995199e533c4b2b95c9a#code
 
+BuildingNFT: 0x9E096F5d73fF6b9Daa2e7f246397DDCbA4aD826d ,  https://basescan.org/address/0x9e096f5d73ff6b9daa2e7f246397ddcba4ad826d#code
+
+
+
 Each contract is a separate .sol file. You can use them individually or together.
 
 📝 Contract Overviews

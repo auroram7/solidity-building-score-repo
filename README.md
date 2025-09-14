@@ -22,6 +22,8 @@ BuildingNFT: 0x9E096F5d73fF6b9Daa2e7f246397DDCbA4aD826d ,  https://basescan.org/
 
 BuildingNFT (second): 0xb3fC99Fc4Db596a5D6BD795E5272Bd4243Eb4CD9 ,  https://basescan.org/address/0xb3fc99fc4db596a5d6bd795e5272bd4243eb4cd9#code
 
+BuildingRegistry : 0x994dbdB6Dd3159cBB11356594023c277375a93A3 , https://basescan.org/address/0x994dbdb6dd3159cbb11356594023c277375a93a3#code
+
 
 
 Each contract is a separate .sol file. You can use them individually or together.

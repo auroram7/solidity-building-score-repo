@@ -28,6 +28,8 @@ BuildingBadge: 0x33ABBE769D52743dd0C6adAF0f73686f7F7b3D9d  https://basescan.org/
 
 BuildingAuction: 0x99F355e6857AE7CcDDc65526774beB20AFC399c7  https://basescan.org/address/0x99f355e6857ae7ccddc65526774beb20afc399c7#code
 
+BuildingDAO: 0x791657f6d44726A9f216b8D2eCbdB83013A8A5De  https://basescan.org/address/0x791657f6d44726a9f216b8d2ecbdb83013a8a5de#code  
+
 
 
 Each contract is a separate .sol file. You can use them individually or together.

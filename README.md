@@ -24,6 +24,8 @@ BuildingNFT (second): 0xb3fC99Fc4Db596a5D6BD795E5272Bd4243Eb4CD9 ,  https://base
 
 BuildingRegistry : 0x994dbdB6Dd3159cBB11356594023c277375a93A3 , https://basescan.org/address/0x994dbdb6dd3159cbb11356594023c277375a93a3#code
 
+BuildingBadge: 0x33ABBE769D52743dd0C6adAF0f73686f7F7b3D9d  https://basescan.org/address/0x33abbe769d52743dd0c6adaf0f73686f7f7b3d9d#code
+
 
 
 Each contract is a separate .sol file. You can use them individually or together.

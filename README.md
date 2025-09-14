@@ -26,6 +26,8 @@ BuildingRegistry : 0x994dbdB6Dd3159cBB11356594023c277375a93A3 , https://basescan
 
 BuildingBadge: 0x33ABBE769D52743dd0C6adAF0f73686f7F7b3D9d  https://basescan.org/address/0x33abbe769d52743dd0c6adaf0f73686f7f7b3d9d#code
 
+BuildingAuction: 0x99F355e6857AE7CcDDc65526774beB20AFC399c7  https://basescan.org/address/0x99f355e6857ae7ccddc65526774beb20afc399c7#code
+
 
 
 Each contract is a separate .sol file. You can use them individually or together.
